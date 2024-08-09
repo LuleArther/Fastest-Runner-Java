@@ -1,0 +1,1 @@
+This repository contains a Java program that identifies the fastest and second fastest runners from a list of marathon times. The code demonstrates basic array manipulation and method usage in Java, making it a great example for learning how to work with arrays and methods in Java programming.
